@@ -1,6 +1,6 @@
 # Andrew Reyna
 
-## Urban Analytics | GIS Automation | Spatial Data Pipelines | Public-Sector Decision Support
+## Urban Analytics | GIS Automation | Spatial Data Pipelines
 
 I build reproducible spatial and quantitative analysis workflows that help planners, analysts, and public agencies evaluate mobility patterns, demographic change, workforce access, service outcomes, and scenario impacts.
 
