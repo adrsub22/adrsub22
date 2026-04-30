@@ -10,8 +10,8 @@ My work combines Python, SQL, ArcGIS Pro, ArcGIS Online, and public-sector data 
 
 ## Featured Projects
 
-### Mobility Spatial Decision-Support Pipeline
-Automated production-style pipeline that ingests trip data, builds rolling spatial analytics in SQL Server, stages GIS outputs in ArcGIS Pro, and publishes hosted feature layers to ArcGIS Online.
+### transit-app-travel-pattern-pipeline
+Automated production-style pipeline that ingests trip data from Transit App, builds rolling spatial analytics in SQL Server, stages GIS outputs in ArcGIS Pro, and publishes hosted feature layers to ArcGIS Online.
 
 **Core skills:** Python, SQL Server, ArcPy, ArcGIS Online, ETL, hosted feature layers, dashboard-ready GIS outputs
 
