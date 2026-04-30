@@ -1,16 +1,38 @@
-## Hi there 👋
+# Andrew Reyna
 
-<!--
-**adrsub22/adrsub22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Urban Analytics | GIS Automation | Spatial Data Pipelines | Public-Sector Decision Support
 
-Here are some ideas to get you started:
+I build reproducible spatial and quantitative analysis workflows that help planners, analysts, and public agencies evaluate mobility patterns, demographic change, workforce access, service outcomes, and scenario impacts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines Python, SQL, ArcGIS Pro, ArcGIS Online, and public-sector data sources to transform complex datasets into GIS-ready outputs, dashboards, maps, and planning decision-support tools.
+
+---
+
+## Featured Projects
+
+### Mobility Analytics AGOL Pipeline
+Automated production-style pipeline that ingests trip data, builds rolling spatial analytics in SQL Server, stages GIS outputs in ArcGIS Pro, and publishes hosted feature layers to ArcGIS Online.
+
+**Core skills:** Python, SQL Server, ArcPy, ArcGIS Online, ETL, hosted feature layers, dashboard-ready GIS outputs
+
+### ACS + LODES Block Group Trends Pipeline
+Python pipeline that integrates ACS demographics, LODES employment data, TIGER/Line geographies, and Census block group crosswalks to support corridor and regional trend analysis.
+
+**Core skills:** Census API, LODES, geospatial data harmonization, crosswalk weighting, GeoPandas, ArcGIS Online publishing
+
+---
+
+## Technical Focus Areas
+
+- Spatial data engineering and GIS automation
+- Public-sector analytics and planning decision support
+- Python and SQL-based ETL workflows
+- Census, demographic, workforce, and mobility data analysis
+- ArcGIS Pro, ArcGIS Online, dashboards, and web map outputs
+- Scenario analysis, QA workflows, and reproducible methodology
+
+---
+
+## Portfolio Direction
+
+This GitHub highlights selected technical workflows behind spatial analysis, public-sector planning, and mobility analytics projects. Formal work samples, maps, and analysis briefs are maintained separately as PDF portfolio materials.
