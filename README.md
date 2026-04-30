@@ -32,7 +32,3 @@ Python pipeline that integrates ACS demographics, LODES employment data, TIGER/L
 - Scenario analysis, QA workflows, and reproducible methodology
 
 ---
-
-## Portfolio Direction
-
-This GitHub highlights selected technical workflows behind spatial analysis, public-sector planning, and mobility analytics projects. Formal work samples, maps, and analysis briefs are maintained separately as PDF portfolio materials.
