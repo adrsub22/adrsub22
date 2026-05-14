@@ -13,7 +13,7 @@ My work combines Python, SQL, ArcGIS Pro, ArcGIS Online, and public-sector data 
 ### Transit App Trip Pattern Pipeline
 Automated production-style pipeline that ingests trip data from Transit App, builds rolling spatial analytics in SQL Server, stages GIS outputs in ArcGIS Pro, and publishes hosted feature layers to ArcGIS Online.
 
-**Stack:** Python, SQL Server, ArcPy, ArcGIS Online, ETL, hosted feature layers, dashboard-ready GIS outputs
+**Stack:** Python, SQL Server, ArcPy, ArcGIS Online, ETL, Hosted Feature Layers, dashboard-ready GIS outputs
 
 ### ACS + LODES Block Group Trends Pipeline
 Python pipeline that integrates ACS demographics, LODES employment data, TIGER/Line geographies, and Census block group crosswalks to support corridor and regional trend analysis.
@@ -24,6 +24,11 @@ Python pipeline that integrates ACS demographics, LODES employment data, TIGER/L
 Web-based tool for visualizing transit passenger load factors at the stop level, with pattern-aware route segmentation and signup-over-signup trend analysis.
 
 **Stack:** Python, Flask, HTML, JavaScript
+
+### Paratransit Client Analysis
+Turns sensitive paratransit ridership data into planner-ready maps. SQL → spatial joins → block-group aggregation → privacy validation → hosted feature layers on ArcGIS Online. Leverages the ArcPy environmen to automate updates and publishing to ArcGIS Online.
+
+**Stack:** Python, SQL, ArcPy, ArcGIS Pro, ArcGIS Online, ETL, hosted Feature Layers
 
 ---
 
